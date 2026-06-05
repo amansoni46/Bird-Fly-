@@ -10,7 +10,9 @@ A fun game built using Python.
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshot_20260605_122634_WhatsApp.jpg)
+
+
 
 ## Author
 Aman Rajivkumar Soni
